@@ -11,17 +11,17 @@ public class PersonasGenerator
 
     // Generar 50 personas con datos aleatorios
     public Person[] generarPersonas() {
-        // String[] nombres = { "Ana", "Luis", "Carlos", "Maria", "Jose", "Pedro",
-        // "Lucia", "Miguel", "Rosa", "Fernando",
-        // "Sofia", "Javier", "Paula", "Alejandro", "Teresa", "Andres", "Raul",
-        // "Carmen", "Daniel",
-        // "Laura", "Gabriel", "Sara", "Francisco", "Patricia", "David", "Elena",
-        // "Manuel", "Isabel",
-        // "Jorge", "Cristina", "Juan", "Claudia", "Santiago", "Marcos", "Felipe",
-        // "Julia", "Victor",
-        // "Nuria", "Eduardo", "Monica", "Adrian", "Esteban", "Raquel", "Roberto",
-        // "Irene", "Ricardo",
-        // "Pilar", "Gonzalo", "Eva", "Pablo", "Angela" };
+         String[] nombres = { "Ana", "Luis", "Carlos", "Maria", "Jose", "Pedro",
+         "Lucia", "Miguel", "Rosa", "Fernando",
+         "Sofia", "Javier", "Paula", "Alejandro", "Teresa", "Andres", "Raul",
+         "Carmen", "Daniel",
+         "Laura", "Gabriel", "Sara", "Francisco", "Patricia", "David", "Elena",
+         "Manuel", "Isabel",
+         "Jorge", "Cristina", "Juan", "Claudia", "Santiago", "Marcos", "Felipe",
+         "Julia", "Victor",
+         "Nuria", "Eduardo", "Monica", "Adrian", "Esteban", "Raquel", "Roberto",
+         "Irene", "Ricardo",
+         "Pilar", "Gonzalo", "Eva", "Pablo", "Angela" };
 
         // Random random = new Random();
         Person[] personas = new Person[50];
